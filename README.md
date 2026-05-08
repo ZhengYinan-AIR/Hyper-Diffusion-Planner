@@ -8,7 +8,7 @@
 
 [**[Arxiv]**](https://arxiv.org/pdf/2602.22801) [**[Project Page]**](https://zhengyinan-air.github.io/Hyper-Diffusion-Planner/)
 
-<img src="./assets/framework.jpeg" width=100% style="vertical-align: bottom;">
+<img src="./assets/framework.jpg" width=100% style="vertical-align: bottom;">
 </div>
 
 The official implementation of **Hyper Diffusion Planner**. Our work demonstrates that diffusion models, when properly designed and trained, can serve as effective and scalable E2E AD planners for complex, real-world autonomous driving tasks. **Note**: In this repository, we will release the details mentioned in the paper and provide implementations on benchmarks like NAVSIM and NuPlan for community research. Note that our design is derived from real-world vehicle experiments. Consequently, its performance on these simulated benchmarks may not fully align with its real-world efficacy, which is a known limitation of such benchmarks as discussed in our paper.
